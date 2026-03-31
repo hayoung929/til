@@ -134,7 +134,7 @@
 - **Filtering** : 목적지 MAC이 수신 포트와 동일 세그먼트면 전달 차단
 - **Aging** : MAC 테이블 항목을 일정 시간(기본 300초) 후 삭제, 미사용 항목 제거
 
-> Learning은 **출발지** MAC 주소를 학습, 목적지 MAC 학습이 아님에 주의
+Learning은 **출발지** MAC 주소를 학습, 목적지 MAC 학습이 아님에 주의
 
 - STP(Spanning Tree Protocol) : 브리지/스위치 간 루프 발생 방지, 논리적으로 루프 구간 차단
 
